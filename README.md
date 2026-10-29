@@ -1,4 +1,15 @@
 
+<div align="center">
+  <img src="./images/banner.jpg" width="100%" alt="Pastel dream banner">
+
+  # Utami-Arsip26
+
+  `INFP` · `IDN/ENG` · `Multifandom`
+
+  *404: reality not found. imagination still running.*
+
+  #INFP #GenshinImpact #Multifandom #DigitalArchive
+</div>
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/uytazee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuuzzrain@gmail.com) 
 
